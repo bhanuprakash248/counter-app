@@ -1,0 +1,21 @@
+body{
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+background-color: lightgray;
+font-family: Arial;
+}
+.container{
+    text-align: center;
+}
+h1{
+font-size: 60px;
+}
+button{
+
+padding: 10px 20px;
+margin:10px;
+font-size: 18px;
+cursor: pointer;
+}
